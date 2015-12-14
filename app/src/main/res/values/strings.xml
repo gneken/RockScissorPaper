@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RockScissorPaper</string>
+    <string name="LoginText">Login</string>
+    <string name="LoginButtonText">Login</string>
+    <string name="ipInputField"></string>
+    <string name="nameInputField"></string>
+    <string name="rockButtonText">Rock</string>
+    <string name="scissorButtonText">Scissor</string>
+    <string name="paperButtonText">Paper</string>
+    <string name="updateButtonText">Update</string>
+</resources>
